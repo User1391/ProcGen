@@ -2,4 +2,4 @@
 A personal exploration into procedural generation
 
 Types of procedural generation that I've done:
-- Cellular automata (cell_auto.py)
+- Cellular automata 5 (cell_auto.py)
