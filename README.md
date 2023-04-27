@@ -9,4 +9,4 @@ A personal exploration into procedural generation
 ## Useful Resources
 - [A Hybrid Approach to Procedural Generation](https://openresearch-repository.anu.edu.au/bitstream/1885/205015/5/FDG20_PCG-submitted.pdf)
 - [Procedural Content Generation Wiki](http://pcg.wikidot.com/)
-- [PCG With Modules](https://www.gamedeveloper.com/design/procedural-content-generation-thinking-with-modules)
+- [PCG - Thinking With Modules](https://www.gamedeveloper.com/design/procedural-content-generation-thinking-with-modules)
