@@ -1,8 +1,8 @@
 import draw_map 
 import random
 
-def cell_auto(iterations=4):
-    map = [[random.choice([True, False]) for _ in range(100)] for _ in range(100)]
+def cell_auto(x_size, y_size, iterations=4):
+    map = [[random.choice([True, False]) for _ in range(x_size)] for _ in range(y_size)]
     for iter in range(iterations):
         for i in range(len(map)):
             for j in range(len(map[0])):
